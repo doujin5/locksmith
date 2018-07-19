@@ -2889,7 +2889,7 @@ div[class*='col-'][class*='6'] .video-cover iframe {
 }
 .imageblock > .container,
 .imageblock > div[class*='col-']:not(.imageblock__content) {
-  padding-top: 6.5em;
+  padding-top: 2.5em;
   padding-bottom: 8.125em;
   float: none;
   overflow: hidden;
@@ -6417,7 +6417,7 @@ iframe {
   margin: 0;
   display: inline-block;
   position: relative;
-  bottom: 16px;
+  bottom: 0px;
 }
 @media all and (max-width: 990px) {
   .feature-2 .feature__title h6 {
@@ -7995,7 +7995,7 @@ section + img {
   padding-top: 4.875em;
 }
 .about-1 h4 {
-  margin-bottom: 2.2608695652174em;
+  margin-bottom: 1.2608695652174em;
 }
 .about-1 p.lead + .feature {
   margin-top: 3.25em;
